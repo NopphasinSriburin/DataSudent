@@ -1,0 +1,17 @@
+C:\Users\nappa\Downloads\งานกุ\DST\DST\bin\Debug\net6.0-windows\DST.exe
+C:\Users\nappa\Downloads\งานกุ\DST\DST\bin\Debug\net6.0-windows\DST.deps.json
+C:\Users\nappa\Downloads\งานกุ\DST\DST\bin\Debug\net6.0-windows\DST.runtimeconfig.json
+C:\Users\nappa\Downloads\งานกุ\DST\DST\bin\Debug\net6.0-windows\DST.dll
+C:\Users\nappa\Downloads\งานกุ\DST\DST\bin\Debug\net6.0-windows\DST.pdb
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.csproj.AssemblyReference.cache
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.Form1.resources
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.csproj.GenerateResource.cache
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.AssemblyInfoInputs.cache
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.AssemblyInfo.cs
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.csproj.CoreCompileInputs.cache
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.dll
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\refint\DST.dll
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.pdb
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\DST.genruntimeconfig.cache
+C:\Users\nappa\Downloads\งานกุ\DST\DST\obj\Debug\net6.0-windows\ref\DST.dll
